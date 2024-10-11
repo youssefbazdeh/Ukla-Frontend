@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "176674262123",
+    "project_id": "ukla-project",
+    "storage_bucket": "ukla-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176674262123:android:8eaeec06142679d5d2352e",
+        "android_client_info": {
+          "package_name": "com.uklanutrition.ukla_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176674262123-aehtuu2dieosdlnf0u5l57dqn5gnkvm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uklanutrition.ukla_app",
+            "certificate_hash": "37691b7518760c0804c7bb100413e53ea0f1e50d"
+          }
+        },
+        {
+          "client_id": "176674262123-dsh9ugf0815erbl57pqge5bp5oea01f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvV5OujPsqxVT978-A2tFqUenIomsWgws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176674262123-dsh9ugf0815erbl57pqge5bp5oea01f6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "176674262123-aj9g9vk0coknqmgcj7piutqrpq236upd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uklaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
